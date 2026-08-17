@@ -11,9 +11,9 @@ TravelGuru AI is an AI-powered travel planning assistant that turns trip prefere
 - Saves flight, hotel, recommendation, and itinerary data as JSON for downstream UI usage.
 - Includes focused test scripts for API integration, itinerary generation, and selection processing.
 
-## Contributor Highlight
+## Highlights
 
-TravelGuru AI highlights the work of Lakshya Rastogi, a contributor with advanced knowledge across data science, software engineering, AI systems, and applied product development. The project reflects strengths in data-driven decision making, API integration, backend design, prompt engineering, feature engineering, and translating messy real-world travel inputs into structured, usable outputs.
+TravelGuru AI highlights advanced knowledge across data science, software engineering, AI systems, and applied product development. The project reflects strengths in data-driven decision making, API integration, backend design, prompt engineering, feature engineering, and translating messy real-world travel inputs into structured, usable outputs.
 
 This blend of data science and engineering matters because travel planning is not just a UI problem. It requires extracting signals from user preferences, coordinating multiple external systems, handling incomplete or changing data, and producing recommendations that are clear enough for people and structured enough for software.
 
